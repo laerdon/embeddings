@@ -1,0 +1,3 @@
+variant_id,positions_changed,num_words_changed,changes,euclidean_distance,cosine_similarity,cosine_distance,is_collision,is_near_collision
+0,"[2117, 8027]",2,"[{'position': 8027, 'original_word': '(26.1)', 'replacement_word': 'thing'}, {'position': 2117, 'original_word': 'our', 'replacement_word': 'were'}]",0.0029511047,0.999995,5.00679e-06,False,False
+1,"[4468, 7409]",2,"[{'position': 7409, 'original_word': 'defined', 'replacement_word': 'life'}, {'position': 4468, 'original_word': 'just', 'replacement_word': 'life'}]",0.004543752,0.9999883,1.168251e-05,False,False

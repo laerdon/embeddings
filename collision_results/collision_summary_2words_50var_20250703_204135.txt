@@ -1,0 +1,28 @@
+embedding collision test results
+==================================================
+
+original text length: 8729 words
+variants tested: 50
+collision threshold: 1.00e-06
+near collision threshold: 1.00e-04
+
+exact collisions found: 0 (0.000000)
+near collisions found: 0 (0.000000)
+
+distance statistics:
+  mean euclidean distance: 0.020631
+  std euclidean distance: 0.016428
+  min euclidean distance: 0.000966
+  max euclidean distance: 0.044560
+
+closest variants (top 5):
+  1. 2 words changed: [5444, 7994]
+    distance: 0.000966
+  2. 2 words changed: [131, 486]
+    distance: 0.001210
+  3. 2 words changed: [1059, 6527]
+    distance: 0.001213
+  4. 2 words changed: [452, 1745]
+    distance: 0.001368
+  5. 2 words changed: [1071, 1424]
+    distance: 0.001455

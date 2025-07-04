@@ -1,0 +1,28 @@
+embedding collision test results
+==================================================
+
+original text length: 8729 words
+variants tested: 50
+collision threshold: 1.00e-06
+near collision threshold: 1.00e-04
+
+exact collisions found: 0 (0.000000)
+near collisions found: 0 (0.000000)
+
+distance statistics:
+  mean euclidean distance: 0.044052
+  std euclidean distance: 0.006741
+  min euclidean distance: 0.025651
+  max euclidean distance: 0.060162
+
+closest variants (top 5):
+  1. 27 words changed: [237, 940, 1162, 1817, 1854, 2038, 2260, 2863, 2977, 3023, 3866, 3918, 3934, 4459, 4694, 4888, 4929, 5669, 5788, 6024, 6306, 6891, 7110, 7139, 7514, 7664, 8564]
+    euclidean_distance: 0.025651    cosine_similarity: 0.999626
+  2. 27 words changed: [161, 789, 1010, 1050, 1238, 1873, 1908, 2086, 2110, 2949, 3418, 4245, 4300, 5132, 5269, 5281, 5296, 5415, 5747, 5907, 6180, 6786, 7648, 7992, 8066, 8391, 8691]
+    euclidean_distance: 0.032080    cosine_similarity: 0.999415
+  3. 27 words changed: [118, 275, 425, 768, 1532, 1937, 2047, 2684, 2808, 3454, 3534, 3604, 3665, 4268, 4667, 4745, 4999, 5647, 6062, 6235, 6394, 6458, 6700, 6868, 6984, 7019, 8530]
+    euclidean_distance: 0.032141    cosine_similarity: 0.999413
+  4. 27 words changed: [860, 948, 1262, 1600, 1909, 1922, 2437, 2494, 2879, 3468, 4028, 4526, 4601, 4681, 4721, 5033, 5127, 5256, 5296, 6046, 6314, 6556, 6706, 6776, 7016, 7968, 8470]
+    euclidean_distance: 0.036792    cosine_similarity: 0.999231
+  5. 27 words changed: [759, 777, 852, 1681, 1856, 2184, 2560, 3174, 3369, 3563, 3765, 4202, 4313, 4572, 5424, 5463, 5697, 5823, 5846, 5868, 6235, 6560, 6585, 6858, 7118, 7417, 8713]
+    euclidean_distance: 0.036969    cosine_similarity: 0.999223
